@@ -11,4 +11,8 @@ six==1.15.0
 pluggy==0.13.1
 pytest==5.4.3
 
+# Deps do coverage
+coverage==5.1
+pytest-cov==2.10.0
+
 -r requirements.txt
