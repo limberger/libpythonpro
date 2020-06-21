@@ -2,6 +2,6 @@ language: python
 python:
   - 3.8
 install:
-  - pip install -rq requirements-dev.txt
+  - pip install -q -r requirements-dev.txt
 script:
   - flake8
