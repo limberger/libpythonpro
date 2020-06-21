@@ -104,7 +104,9 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "libpythonpro_JP" \
+       "" \
+       ""
 DESCRIPTION = "Módulo de exemplo para exemplificar construćão de pprojetos"
 AUTHOR = "João Paulo Limberger"
 AUTHOR_EMAIL = "jlimberger@gmail.com"
