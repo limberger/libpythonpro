@@ -8,10 +8,9 @@ Link para o curso [Python.Pro](https://www.python.pro.br/)
 [![Python 3](https://pyup.io/repos/github/limberger/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/limberger/libpythonpro/)
 [![codecov](https://codecov.io/gh/limberger/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/limberger/libpythonpro)
 
-S
-uporta versão 3 de Python
-
-para instalar:
+Suporta versão 3 de Python
+ 
+se desejar instalar:
 
 ```console
 python3 -m venv .venv
