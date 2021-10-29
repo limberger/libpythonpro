@@ -137,10 +137,10 @@
         },
         "packaging": {
             "hashes": [
-                "sha256:24e0da08660a87484d1602c30bb4902d74816b6985b93de36926f5bc95741858",
-                "sha256:78598185a7008a470d64526a8059de9aaa449238f280fc9eb6b13ba6c4109093"
+                "sha256:096d689d78ca690e4cd8a89568ba06d07ca097e3306a4381635073ca91479966",
+                "sha256:14317396d1e8cdb122989b916fa2c7e9ca8e2be9e8060a6eff75b6b7b4d8a7e0"
             ],
-            "version": "==20.8"
+            "version": "==21.2"
         },
         "pluggy": {
             "hashes": [
