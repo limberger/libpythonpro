@@ -196,11 +196,8 @@
             "version": "==2.10.1"
         },
         "pytest-mock": {
-            "hashes": [
-                "sha256:c0fc979afac4aaba545cbd01e9c20736eb3fefb0a066558764b07d3de8f04ed3",
-                "sha256:c3981f5edee6c4d1942250a60d9b39d38d5585398de1bfce057f925bdda720f4"
-            ],
-            "version": "==3.4.0"
+            "hashes": [],
+            "version": "==3.10.0"
         },
         "six": {
             "hashes": [
