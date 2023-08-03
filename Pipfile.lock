@@ -129,11 +129,8 @@
             "version": "==0.6.1"
         },
         "more-itertools": {
-            "hashes": [
-                "sha256:8e1a2a43b2f2727425f2b5839587ae37093f19153dc26c0927d1048ff6557330",
-                "sha256:b3a9005928e5bed54076e6e549c792b306fddfe72b2d1d22dd63d42d5d3899cf"
-            ],
-            "version": "==8.6.0"
+            "hashes": [],
+            "version": "==10.1.0"
         },
         "packaging": {
             "hashes": [
